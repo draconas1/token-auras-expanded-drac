@@ -1,0 +1,59 @@
+{
+	"id": "token-auras-expanded",
+	"name": "token-auras-expanded",
+	"title": "Token Auras Expanded",
+	"description": "Provide options for configuring token auras. Forked from Kim Mantas's original Token Auras.",
+	"version": "2.8",
+	"minimumCoreVersion": "11",
+	"compatibleCoreVersion": "11",
+	"compatibility": {
+		"minimum": 11,
+		"verified": 11
+	},
+	"authors": [
+		{
+			"name": "Kim Mantas"
+		},
+		{
+			"name": "Ryan Warren"
+		}
+	],
+	"scripts": [
+		"main.js"
+	],
+	"flags": {
+		"token-auras-extended": {
+			"scope": "world"
+		}
+	},
+	"url": "https://bitbucket.org/zrt-foundryvtt/token-auras-expanded",
+	"manifest": "https://bitbucket.org/zrt-foundryvtt/token-auras-expanded/raw/master/module.json",
+	"download": "https://bitbucket.org/zrt-foundryvtt/token-auras-expanded/get/2.8.zip",
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		},
+		{
+			"lang": "pt-BR",
+			"name": "Português (Brasil)",
+			"path": "lang/pt-BR.json"
+		},
+		{
+			"lang": "de",
+			"name": "Deutsch",
+			"path": "lang/de.json"
+		},
+		{
+			"lang": "it",
+			"name": "Italiano",
+			"path": "lang/it.json"
+		},
+		{
+			"lang": "fr",
+			"name": "Français",
+			"path": "lang/fr.json"
+		}
+	]
+}

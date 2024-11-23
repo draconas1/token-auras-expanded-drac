@@ -26,9 +26,9 @@
 			"scope": "world"
 		}
 	},
-	"url": "https://bitbucket.org/zrt-foundryvtt/token-auras-expanded",
-	"manifest": "https://bitbucket.org/zrt-foundryvtt/token-auras-expanded/raw/master/module.json",
-	"download": "https://bitbucket.org/zrt-foundryvtt/token-auras-expanded/get/2.8.zip",
+	 "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
 	"languages": [
 		{
 			"lang": "en",

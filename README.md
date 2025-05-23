@@ -5,6 +5,10 @@ A [FoundryVTT](https://foundryvtt.com) module for configuring token auras. Auras
 
 ![Example aura visuals](https://bitbucket.org/Fyorl/token-auras/raw/master/example-aura.jpg)
 
+# To Install
+
+Paste this into Foundry:  https://github.com/draconas1/token-auras-expanded-drac/releases/latest/download/module.json 
+
 ## API
 
 Aura objects have the following properties:
